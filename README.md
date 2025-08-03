@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**hir05o1/hir05o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a frontend engineer from Japan
 
-Here are some ideas to get you started:
+2. My tech blog [here](https://zenn.dev/hir05o1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,kotlin,swift" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,android,apple" /> <br /><br />
+
+## Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,aws" /> <br /><br />
+
+## GitHub Statistics
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hir05o1&label=Profile%20views&color=0e75b6&style=flat" alt="hir05o1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hir05o1" alt="hir05o1" /></a> </p>
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hir05o1&show_icons=true&locale=en&layout=compact" alt="hir05o1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hir05o1&show_icons=true&locale=en" alt="hir05o1" /></p>
