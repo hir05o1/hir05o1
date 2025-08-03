@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-1. I'm a frontend engineer from Japan
+1. I'm a frontend engineer.
 
 2. My tech blog [here](https://zenn.dev/hir05o1)
 
@@ -18,8 +18,6 @@
 
 ## GitHub Statistics
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hir05o1&label=Profile%20views&color=0e75b6&style=flat" alt="hir05o1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hir05o1" alt="hir05o1" /></a> </p>
 
